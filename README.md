@@ -8,8 +8,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-	Дипломный проект по курсу PYthon Basic.
-	Подготовил: Арсентьев А.В.
 	
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -19,6 +17,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML UI" alt="HTML UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
+	
+проект выполнен при помощи Python TelegramBotAPI PYthon Basic.
+Подготовил: Арсентьев А.В.
 Описание дирректорий и файлов:
 
 1.Дирректория config_data хранит в себе названия основных
