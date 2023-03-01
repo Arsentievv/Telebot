@@ -18,9 +18,9 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 
 	
-проект выполнен при помощи Python TelegramBotAPI PYthon Basic.
-Подготовил: Арсентьев А.В.
-Описание дирректорий и файлов:
+Проект выполнен при помощи Python TelegramBotAPI PYthon Basic.<br>
+Подготовил: Арсентьев А.В.<br>
+Описание дирректорий и файлов:<br>
 
 1.Дирректория config_data хранит в себе названия основных
 команд и их описание.
